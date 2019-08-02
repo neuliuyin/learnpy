@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
+'''
+打印菱形
+'''
 n = int(input('输入行数：'))
 
 # 第一种方法
